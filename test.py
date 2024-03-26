@@ -11,5 +11,7 @@ print(x+y)
 print(x/y)
 # Multiplication
 print(x*y)
+# Floor division
 print(x//y)
+# Modulus
 print(x%y)
